@@ -9,7 +9,7 @@ Most of the localized builds were left completely unmodified
 | Build | Type | Date | Link | Notes |
 | ----- | ---- | ---------- | ---- | ----- |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | [Link](https://mega.nz/file/Za9ykZZY#vwF8iAI6iUH0ifiIbxmCvgiRXCoAqId4ps49yQvY8ww) | None |
-| 11860.10.07.24.0147 | Chinese (Traditional) | 9-14-2010 | LINK | Since this is a text only translation, it is just an english copy that is region locked to NTSCJ |
+| 11860.10.07.24.0147 | Chinese (Traditional) | 9-14-2010 | [Link]() | Since this is a text only translation, it is just an english copy that is region locked to NTSCJ |
 | 11860.10.07.24.0147 | English | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | French | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | German | 9-14-2010 | [Link](https://mega.nz/file/4ediCCwS#_Cwi-CMSC6KzoVd6bgvBDRorzCQ-B21naPGMSL1hczE) | None |
@@ -20,7 +20,7 @@ Most of the localized builds were left completely unmodified
 | 11860.10.07.24.0147 | Polish | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | Spanish | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | Spanish (Latin American) | 9-14-2010 | [Link]() | None |
-| 11860.10.07.24.0147 | Microsoft Confidential Preview Disc | 9-14-2010 | LINK | Was sent out to partners to test an updated Xbox 360 disc format (It's the same as any other 11860.10.07.24.0147 build) |
+| 11860.10.07.24.0147 | Microsoft Confidential Preview Disc | 9-14-2010 | [Link]() | Was sent out to partners to test an updated Xbox 360 disc format (It's the same as any other 11860.10.07.24.0147 build) |
 | 11883.10.10.25.1227 | Cache build | 6-13-2011 | [Link](https://mega.nz/folder/SIkQiDoI#cRSijpJPE1ZGymRp-BjxkA/file/aUt2RLRZ) | Rebuilt debug with cache files & retail maps |
 | 11883.10.10.25.1227 | Tags build | 7-7-2011 | [Link](https://www.obscuregamers.com/threads/halo-reach-tags-build-cache-build-halo-4-tags-cache-builds.4035/) | dlc 1 ship tag test |
 
