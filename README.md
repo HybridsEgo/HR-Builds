@@ -1,11 +1,8 @@
-# Halo Builds
-Created for my irrational fear of losing all of this in the future.
-
-# Downloads
-
 # Halo: Reach Xbox 360
-Most of the localized builds were left completely unmodified 
+Created for my irrational fear of losing all of this in the future.
+Most of the localized builds were left completely unmodified.
 
+## Downloads
 | Build | Type | Date | Link | Notes |
 | ----- | ---- | ---------- | ---- | ----- |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | [Link](https://mega.nz/file/Za9ykZZY#vwF8iAI6iUH0ifiIbxmCvgiRXCoAqId4ps49yQvY8ww) | None |
