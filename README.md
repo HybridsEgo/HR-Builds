@@ -6,7 +6,7 @@ Most of the localized builds were left completely unmodified.
 | Build | Type | Date | Link | Notes |
 | ----- | ---- | ---------- | ---- | ----- |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | [Link](https://mega.nz/file/Za9ykZZY#vwF8iAI6iUH0ifiIbxmCvgiRXCoAqId4ps49yQvY8ww) | None |
-| 11860.10.07.24.0147 | Chinese (Traditional) | 9-14-2010 | [Link]() | Since this is a text only translation, it is just an english copy that is region locked to NTSCJ |
+| 11860.10.07.24.0147 | Chinese (Traditional text edition) | 9-14-2010 | [Link]() | English copy that is region locked to NTSCJ |
 | 11860.10.07.24.0147 | English | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | French | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | German | 9-14-2010 | [Link](https://mega.nz/file/4ediCCwS#_Cwi-CMSC6KzoVd6bgvBDRorzCQ-B21naPGMSL1hczE) | None |
