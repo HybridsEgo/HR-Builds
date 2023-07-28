@@ -5,7 +5,9 @@ Most of the localized builds were left completely unmodified.
 ## Downloads
 | Build | Type | Date | Link | Notes |
 | ----- | ---- | ---------- | ---- | ----- |
-| 00095.11.04.09.1509.demo | Demo | 5-24-2011 | [Link](https://mega.nz/file/Za9ykZZY#vwF8iAI6iUH0ifiIbxmCvgiRXCoAqId4ps49yQvY8ww) | None |
+| 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | [Link]() | Private Multiplayer Pre-Alpha |
+| 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | [Link]() | Private Multiplayer Pre-Beta |
+| 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | [Link]() | Public Multiplayer Beta |
 | 11860.10.07.24.0147 | Chinese (Traditional text edition) | 9-14-2010 | [Link]() | NTSCJ (Dubbed in English) |
 | 11860.10.07.24.0147 | English | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | French | 9-14-2010 | [Link]() | None |
@@ -17,7 +19,8 @@ Most of the localized builds were left completely unmodified.
 | 11860.10.07.24.0147 | Polish | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | Spanish | 9-14-2010 | [Link]() | None |
 | 11860.10.07.24.0147 | Spanish (Latin American) | 9-14-2010 | [Link]() | None |
-| 11860.10.07.24.0147 | Preview Disc English | 9-14-2010 | [Link]() |  None |
+| 11860.10.07.24.0147 | Preview Disc English | 9-14-2010 | [Link]() | None |
+| 00095.11.04.09.1509.demo | Demo | 5-24-2011 | [Link](https://mega.nz/file/Za9ykZZY#vwF8iAI6iUH0ifiIbxmCvgiRXCoAqId4ps49yQvY8ww) | None |
 | 11883.10.10.25.1227 | Cache build | 6-13-2011 | [Link](https://mega.nz/folder/SIkQiDoI#cRSijpJPE1ZGymRp-BjxkA/file/aUt2RLRZ) | Rebuilt debug with cache files & retail maps |
 | 11883.10.10.25.1227 | Tags build | 7-7-2011 | [Link](https://www.obscuregamers.com/threads/halo-reach-tags-build-cache-build-halo-4-tags-cache-builds.4035/) | dlc 1 ship tag test |
 
