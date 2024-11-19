@@ -18,7 +18,7 @@ Created for my irrational fear of losing all of this in the future.
 > | 05059954 | 00000011 | None |
 > | 25148C14 | 00000007 | None |
 > | 31D86FE7 | 0000000D | None |
-> | 42D18BEE | 00000009 | Spanish |
+> | 42D18BEE | 00000009 | Spanish (Mexican) |
 > | 566C10D3 | 00000001 | English & Chinese (Traditional) |
 > | 56D002AE | 00000004 | Italian |
 > | 585FC053 | 0000000B | None |
