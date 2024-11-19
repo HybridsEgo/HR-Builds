@@ -12,34 +12,34 @@ Created for my irrational fear of losing all of this in the future.
 | 11883.10.10.25.1227 | Tags build | 7-7-2011 | [Link](https://www.obscuregamers.com/threads/halo-reach-tags-build-cache-build-halo-4-tags-cache-builds.4035/) | dlc 1 ship tag test |
 
 ## **Title updates**
-> | MediaID | Base Version | Notes |
+> | MediaId | Base Version | Notes |
 > | ------- | ------------ | ----- |
-> | 046D17EE | 00000002 | None |
+> | 046D17EE | 00000002 | French |
 > | 05059954 | 00000011 | None |
 > | 25148C14 | 00000007 | None |
 > | 31D86FE7 | 0000000D | None |
-> | 42D18BEE | 00000009 | None |
-> | 566C10D3 | 00000001 | None |
-> | 56D002AE | 00000004 | None |
+> | 42D18BEE | 00000009 | Spanish |
+> | 566C10D3 | 00000001 | English & Chinese (Traditional) |
+> | 56D002AE | 00000004 | Italian |
 > | 585FC053 | 0000000B | None |
 > | 5B7A8B59 | 00000013 | None |
-> | 61F099B6 | 00000003 | None |
+> | 61F099B6 | 00000003 | German |
 > | 63681F4C | 0000000A | None |
 
 
 ## Other release builds
-| Build | Type | Date | Notes |
-| ----- | ---- | ---------- | ----- |
-| 11860.10.07.24.0147 | Chinese (Traditional text edition) | 9-14-2010 | NTSCJ (Dubbed in English) |
-| 11860.10.07.24.0147 | English | 9-14-2010 | None |
-| 11860.10.07.24.0147 | French | 9-14-2010 | None |
-| 11860.10.07.24.0147 | German | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Italian | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Japanese | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Korean | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Portuguese | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Polish | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Spanish | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Spanish (Latin American) | 9-14-2010 | None |
-| 11860.10.07.24.0147 | Preview Disc English | 9-14-2010 | None |
-| 00095.11.04.09.1509.demo | Demo | 5-24-2011 | None |
+| Build | Type | Date | Notes | MediaId |
+| ----- | ---- | ---------- | ----- | ------- |
+| 11860.10.07.24.0147 | Chinese (Traditional) | 9-14-2010 | NTSCJ (English dub) | D5F8036CA497AFADC59687E1566C10D3 |
+| 11860.10.07.24.0147 | English | 9-14-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
+| 11860.10.07.24.0147 | French | 9-14-2010 | PAL | C4C5055F6C2B9A14F475CF27046D17EE |
+| 11860.10.07.24.0147 | German | 9-14-2010 | PAL | 3C0CB47DCA0AA8CE32F4B45461F099B6 |
+| 11860.10.07.24.0147 | Italian | 9-14-2010 | PAL | 241AE8BC553934C2327C305456D002AE |
+| 11860.10.07.24.0147 | Japanese | 9-14-2010 | NTSCJ | 077604A1B6A4906BDC2FEE764896578C |
+| 11860.10.07.24.0147 | Korean | 9-14-2010 | NTSCJ | 61A1F73AB1D1F4E70F255BCD0F6E5B5E |
+| 11860.10.07.24.0147 | Portuguese | 9-14-2010 | NTSC | FD8573EBD621254AF649E9851826D881 |
+| 11860.10.07.24.0147 | Polish | 9-14-2010 | PAL |
+| 11860.10.07.24.0147 | Spanish (Mexican) | 9-14-2010 | NTSC | 3034EDCC9AB5D62738495F1642D18BEE |
+| 11860.10.07.24.0147 | Spanish (Traditional) | 9-14-2010 | PAL |
+| 11860.10.07.24.0147 | Preview Disc English | 9-14-2010 | Green & Silver | DBBADFEBE890F4FAD1126638FFFFFDEB |
+| 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
