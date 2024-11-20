@@ -41,5 +41,5 @@ Created for my irrational fear of losing all of this in the future.
 | 11860.10.07.24.0147 | Polish | 9-14-2010 | PAL |
 | 11860.10.07.24.0147 | Spanish (Mexican) | 9-14-2010 | NTSC | 3034EDCC9AB5D62738495F1642D18BEE |
 | 11860.10.07.24.0147 | Spanish (Traditional) | 9-14-2010 | PAL |
-| 11860.10.07.24.0147 | Partner Discs | 9-14-2010 | Green & Silver | DBBADFEBE890F4FAD1126638FFFFFDEB |
+| 11860.10.07.24.0147 | Partner Discs | 9-14-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
