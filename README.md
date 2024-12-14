@@ -30,7 +30,7 @@ Created for my irrational fear of losing all of this in the future.
 ## Other release builds
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
-| 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 9-14-2010 | NTSCJ (English dub) | D5F8036CA497AFADC59687E1566C10D3 |
+| 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 9-14-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
 | 11860.10.07.24.0147.omaha_relea | English | 9-14-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
 | 11860.10.07.24.0147.omaha_relea | French | 9-14-2010 | PAL | C4C5055F6C2B9A14F475CF27046D17EE |
 | 11860.10.07.24.0147.omaha_relea | German | 9-14-2010 | PAL | 3C0CB47DCA0AA8CE32F4B45461F099B6 |
