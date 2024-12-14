@@ -25,7 +25,7 @@ Created for my irrational fear of losing all of this in the future.
 > | 5B7A8B59 | 00000013 | None |
 > | 61F099B6 | 00000003 | German |
 > | 63681F4C | 0000000A | None |
-
+> | 00394009 | 00000067 | CEA |
 
 ## Other release builds
 | Build | Type | Date | Notes | MediaId |
